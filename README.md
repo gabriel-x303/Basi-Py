@@ -5,3 +5,4 @@
 
 # Novo prjeto: Aprendendo utomação
 ## Comando for + comando range: criação de texto separado por linha
+## Comando .append + input no for
