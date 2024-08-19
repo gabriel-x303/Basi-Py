@@ -7,3 +7,4 @@
 ## Comando for + comando range: criação de texto separado por linha
 ## Comando .append + input no for + range: inclusão de texto em lista por caixas de texto
 ## Dicionáros + .get
+## Print para lista de repetição
