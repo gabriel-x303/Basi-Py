@@ -9,3 +9,5 @@
 ### Dicionáros + .get
 ### Print para lista de repetição
 ## Iniciando projeto de automação de Email
+### Configurando e extraindo as informações do clima
+### Requisitando informações específicas
