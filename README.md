@@ -11,3 +11,4 @@
 ## Iniciando projeto de automação de Email
 ### Configurando e extraindo as informações do clima
 ### Requisitando informações específicas
+### Filtrando e organizando dados necessários
