@@ -13,3 +13,5 @@
 ### Requisitando informações específicas
 ### Filtrando e organizando dados necessários
 ### Corpo do email foito, dados adicionados. Tudo preparado pra programar envio regular
+## Automação
+### Preparando comandos de envio regular
