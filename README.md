@@ -20,4 +20,5 @@
 
 # Projeto segunte: preparando e manipulando bases de dados
 ## Conhecedo as estruturas
-### Tratando alguns dados in adequados
+### Tratando alguns dados inadequados
+### Fazendo algumas análises básicas
