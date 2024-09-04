@@ -23,3 +23,4 @@
 ### Tratando alguns dados inadequados
 ### Fazendo algumas análises básicas
 ### Fazendo análises aprofundadas
+#### Soma por categorias cruzadas
