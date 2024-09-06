@@ -24,3 +24,4 @@
 ### Fazendo algumas análises básicas
 ### Fazendo análises aprofundadas
 #### Soma por categorias cruzadas
+#### Criando gáraficos
